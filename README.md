@@ -15,8 +15,8 @@ I took the skills that real graduate job posts ask for and turned each one into 
 | Week | Project | Stage | Status |
 |---|---|---|---|
 | 0 | [Choosing the project](week-0-project-selection) | Before the start | Done |
-| 1 | Project charter | Initiating | Next |
-| 2 | Schedule and budget | Planning | Upcoming |
+| 1 | Project charter | Initiating | Done |
+| 2 | Schedule and budget | Planning | Next |
 | 3 | Risk log | Planning | Upcoming |
 | 4 | Product proposal and roadmap | Planning | Upcoming |
 | 5 | Stakeholder map | Planning | Upcoming |
